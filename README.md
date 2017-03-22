@@ -43,4 +43,4 @@ The tools and documentation that comprise [AFDKO (*Adobe Font Development Kit fo
 
 ## Getting Involved
 
-Send suggestions for changes to the AGL & AGLFN project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub] AGL & AGLFN), for consideration.
+Send suggestions for changes to the AGL & AGLFN project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20AGL%20&%20AGLFN), for consideration.
