@@ -25,8 +25,8 @@ AGLFN comprises the set of glyph names from AGL that map via the
 AGL Specification rules to the semantically correct UV (*Unicode Value*).
 For example, "Asmall" is omitted because AGL maps this glyph name to the
 PUA (*Private Use Area*) value U+F761, rather than to the UV that maps from
-the glyph name "A."
-Also omitted is "ffi," because AGL maps this to the
+the glyph name "A".
+Also omitted is "ffi", because AGL maps this to the
 Alphabetic Presentation Forms value U+FB03, rather than decomposing it into
 the following sequence of three UVs: U+0066, U+0066, and U+0069.
 The name "arrowvertex" has been omitted because this glyph now has a real UV,
