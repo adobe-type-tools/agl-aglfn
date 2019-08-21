@@ -1,6 +1,5 @@
 # -----------------------------------------------------------
-# Copyright 2002, 2003, 2005, 2006, 2008, 2010, 2015 Adobe Systems
-# Incorporated. All rights reserved.
+# Copyright 2002-2019 Adobe (http://www.adobe.com/).
 #
 # Redistribution and use in source and binary forms, with or
 # without modification, are permitted provided that the
@@ -15,10 +14,9 @@
 # disclaimer in the documentation and/or other materials
 # provided with the distribution.
 #
-# Neither the name of Adobe Systems Incorporated nor the names
-# of its contributors may be used to endorse or promote
-# products derived from this software without specific prior
-# written permission.
+# Neither the name of Adobe nor the names of its contributors
+# may be used to endorse or promote products derived from this
+# software without specific prior written permission.
 #
 # THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
 # CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
@@ -694,4 +692,4 @@
 017C;zdotaccent;LATIN SMALL LETTER Z WITH DOT ABOVE
 0030;zero;DIGIT ZERO
 03B6;zeta;GREEK SMALL LETTER ZETA
-#END
+# END
