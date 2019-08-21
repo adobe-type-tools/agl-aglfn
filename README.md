@@ -8,9 +8,9 @@ and provides the resources that it references.
 
 This project includes the following resources:
 
-*glyphlist.txt*: AGL  
-*aglfn.txt*: AGLFN  
-*zapfdingbats.txt*: ITC Zapf Dingbats Glyph List
+* AGL (*glyphlist.txt*)
+* AGLFN (*aglfn.txt*)
+* ITC Zapf Dingbats Glyph List (*zapfdingbats.txt*)
 
 ## Overview
 
